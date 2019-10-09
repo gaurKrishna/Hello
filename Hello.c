@@ -4,6 +4,6 @@ int main()
 {
     char *name;
     scanf("%s", name);
-    printf("%s", name);
+    printf("Hello %s", name);
     return 0;
 }
