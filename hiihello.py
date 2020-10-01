@@ -1,0 +1,1 @@
+print("hactoberfest ko namaskar")
